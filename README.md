@@ -5,4 +5,14 @@
 - Now if you have a desktop, why the hell would you want to do this?
 # DO THIS AT YOUR OWN RISK!!
 
-![alt text](http://url/to/img.png)
+
+![Image_1](https://github.com/Kaligraphy247/cpu_limiter/blob/master/img.png)
+-  
+![Image_2](https://github.com/Kaligraphy247/cpu_limiter/blob/master/img2.png)
+-  
+![Image_3](https://github.com/Kaligraphy247/cpu_limiter/blob/master/img3.png)
+-  
+![Image_4](https://github.com/Kaligraphy247/cpu_limiter/blob/master/img4.png)
+-  
+![Image_5](https://github.com/Kaligraphy247/cpu_limiter/blob/master/img5.png)
+-  
