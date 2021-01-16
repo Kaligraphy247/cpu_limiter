@@ -5,3 +5,4 @@
 - Now if you have a desktop, why the hell would you want to do this?
 # DO THIS AT YOUR OWN RISK!!
 
+![alt text](http://url/to/img.png)
