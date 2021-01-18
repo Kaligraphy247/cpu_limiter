@@ -62,7 +62,7 @@ To turn off, type '1'
 read varone
 echo $varone > /sys/devices/system/cpu/cpu$core/online
 sleep 1.5
-echo All Done!!!
+echo "All Done!!!"
 
 #inxi -mGC
 #echo 0 > /sys/devices/system/cpu/cpu4/online
