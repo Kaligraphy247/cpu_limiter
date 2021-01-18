@@ -42,18 +42,20 @@ sleep 2
 echo "To confirm, you have $cores cores"
 sleep 2
 echo "
-Please leave at least 1 - 2 cores available. (i.e. Don't be stupid)
+Please leave at least 1 - 2 cores available for use. (i.e. Don't be stupid)
 Enter the no. of cpu cores you  want to use:
 "
 
 read core
 sleep 1
-echo You have chosen to use $core cores
+echo You have chosen to use $core core/cores
 echo 0 > /sys/devices/system/cpu/cpu$core/online
 sleep 1.5
 echo Success, Now using $core cores
 sleep 2.5
-echo "KEEP THIS TERMINAL OPEN !!!!
+echo "
+KEEP THIS TERMINAL OPEN !!!!
+
 To turn off, type '1'
 "
 
